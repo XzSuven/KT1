@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+    margin: 300px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 40px;
+    width: 40px;
+}
+.orange-bg{
+    background-color: orange;
+}
