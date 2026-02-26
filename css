@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    margin: 300px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 40px;
+    width: 40px;
+}
+.orange-bg{
+    background-color: orange;
+}
+.red-bg{
+    background-color: red;
+}
+.green-bg{
+    background-color: green;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
